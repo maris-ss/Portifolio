@@ -9,7 +9,7 @@ Oi eu sou a Mariana e esses são meus projetos, designs e exercícios da faculda
    - 📜 Desenvolvimento Front-End de uma plataforma para empresa CIC. Página de dashboard, widgets, análise e uploads codadas.
    - 🔧 Desenvolvido com HTML, CSS e JavaScript.
 
-### Projetos de design 🎨 
+### Projetos de design (figma) 🎨 
 **[Protótipo da platafroma para empresa CIC](https://www.figma.com/design/08IyMXIaN3yVBnTmaWDEmp/Prot%C3%B3tipo?node-id=9-4&t=I4xJ7kWzgAAODMAC-1)**
    - 📜 Protótipo interativo para empresa CIC - proposta de design mais amigável.
 
@@ -18,8 +18,6 @@ Oi eu sou a Mariana e esses são meus projetos, designs e exercícios da faculda
 
 **[WeBike](https://www.figma.com/design/Z2EwgEcMb2PmPvQkNP7MsX/WeBike?node-id=0-1&t=imUswiSoVcGkaFCL-1)**
    - 📜 Exercício de Desenvolvimento Mobile - prototipar em uma aula.
-     
-   - 🖌️ Desenvolvidos com Figma.
 
 ### Projetos de mobile 📲 
 **[Cardápio de festa junina](https://snack.expo.dev/@marisz/milho-verde)**
@@ -27,5 +25,5 @@ Oi eu sou a Mariana e esses são meus projetos, designs e exercícios da faculda
    - 📱 Desenvolvido com React Native e Expo.
 
 ## Contato 📫
-**[Linkedin](http://linkedin.com/in/mariana-sorato-sanho-3521b9265)**
-**[E-mail](marianasanho@gmail.com)**
+   - **[Linkedin](http://linkedin.com/in/mariana-sorato-sanho-3521b9265)**
+   - **[E-mail](marianasanho@gmail.com)**
