@@ -20,8 +20,8 @@ Oi eu sou a Mariana e esses são meus projetos, designs e exercícios da faculda
    - 📜 Exercício de Desenvolvimento Mobile - prototipar em uma aula.
 
 ### Projetos de mobile 📲 
-**[Cardápio de festa junina](https://snack.expo.dev/@marisz/milho-verde)**
-   - 📜 Exercício de Desenvolvimento Web - aprendendo a usar componentes.
+**[MobileFlix](https://snack.expo.dev/@marisz/mobileflix)**
+   - 📜 Prova de Desenvolvimento Web - aprendendo a usar componentes e useState.
    - 📱 Desenvolvido com React Native e Expo.
 
 ## Contato 📫
